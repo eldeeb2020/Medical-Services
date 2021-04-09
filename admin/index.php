@@ -4,9 +4,6 @@ require_once 'inc/header.php' ;
 ?>
 
 
-<?php
-echo 'welcome '.$_SESSION['admin_name'];
-?>
 
 
 <?php
